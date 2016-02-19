@@ -1,9 +1,9 @@
 {
-    "name": "cpliakas/solarium-luke",
+    "name": "airways/solarium-luke",
     "type": "library",
     "description": "A Luke request handler for Solarium.",
     "keywords": ["solr", "solarium", "luke"],
-    "homepage": "https://github.com/cpliakas/solarium-luke",
+    "homepage": "https://github.com/airways/solarium-luke",
     "license": "NewBSD",
     "authors": [
         {
@@ -13,6 +13,10 @@
         {
             "name": "Chris Pliakas",
             "email": "opensource@chrispliakas.com"
+        },
+        {
+            "name": "Isaac Raway",
+            "email": "iraway@metasushi.com"
         }
     ],
     "require": {
